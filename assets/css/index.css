@@ -1,0 +1,25 @@
+#contact {
+    background-color: #ff0000;
+}
+
+.contact {
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 1)), url('../img/New-Delhi.png');
+
+}
+
+#team {
+    font-size: 60px;
+    margin-bottom: 10px;
+}
+
+
+.connect{
+    position:relative;padding:5px 17px 5px 12px;font-weight:700;text-transform:uppercase;background-color:transparent;border:none}
+    .connect .btn-background{
+        position:absolute;top:0;left:23px;right:0;height:100%;background-color:#da2828;z-index:-1;-webkit-transition:left .2s ease-in-out;transition:left .2s ease-in-out}
+    .connect:hover .btn-background{left:0}.intro--banner button:focus{outline:none}.intro--banner button svg{position:relative;left:5px;width:15px;fill:#fff}
+
+.connect a {
+    color: #fff;
+    text-decoration: none;
+}
